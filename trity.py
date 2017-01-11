@@ -111,7 +111,7 @@ def banner1():
     print ""+M+"|----- Made by _t0x1c aka toxic -----|"
     print color.DARKCYAN +"|-----      Version: 3.0.1      -----|"
     print color.WARNING + "|-----   1 tool - 35 choices    -----|"
-    print color.RED + "|----- www.toxic-ig.weebly.com  -----|"
+    print color.RED + "|-----  www.toxic-ig.github.io  -----|"
     print color.PURPLE + "\n|----- A Warm Welcome to Trity! -----|"
     print color.BLUE + "|----- Network Pentesting tool! -----|"
     print color.YELLOW + "|----- Have Fun and Stay Legal! -----|"
@@ -125,7 +125,7 @@ print color.DARKCYAN + "|-----      Version: 3.0.1      -----|"
 time.sleep(0.1)
 print color.WARNING + "|-----   1 tool - 35 choices    -----|"
 time.sleep(0.1) 
-print color.RED + "|----- www.toxic-ig.weebly.com  -----|"
+print color.RED + "|-----  www.toxic-ig.github.io  -----|"
 time.sleep(0.1)
 print color.PURPLE + "\n|----- A Warm Welcome to Trity! -----|"
 time.sleep(0.1)
@@ -159,7 +159,7 @@ if '3.0.1' not in r.text:
 else:
     print ('')
 swear = "fuck", "shit", "nigga", "bitch", "dick", "pussy", "cunt", "nigger", "asshole"
-spell = "helpp", "hellp", "bannerr", "baner", "emial", "HELP", "hwlp", "wesbite", "ehco", "anonymouss", "anonymouse", "toool", "tooll", "carft", "Info", "spooof", "spooff", "ecnode", "decde", "encde", "craftt", "qoute", "sitexists", "hlep"
+spell = "helpp", "hellp", "bannerr", "baner", "emial", "HELP", "hwlp", "wesbite", "ehco", "anonymouss", "anonymouse", "toool", "tooll", "carft", "Info", "spooof", "spooff", "ecnode", "decde", "encde", "craftt", "qoute", "sitexists", "hlep", "claer"
 def tritymain():
     while True:
         try:
@@ -199,7 +199,7 @@ def tritymain():
                 print ""+W+"+----------------------------+"
 	        print ""+G+"ip "+W+"- geolocate an ip"
                 print ""+W+"+----------------------------+"
-	        print ""+O+"spoof mac"+W+"- spoof mac address"
+	        print ""+O+"spoof mac"+W+" - spoof mac address"
                 print ""+W+"+----------------------------+"
 	        print ""+T+"email "+W+"- bomb an email address"
 	        print ""+T+"spoof email "+W+"- spoof an email address"
@@ -278,6 +278,7 @@ def tritymain():
 	        print(''+T+'' + color.UNDERLINE + 'Skype:'+W+'' + color.BOLD + ' infamouzgaming' + color.END)
 	        print(''+T+'' + color.UNDERLINE + 'Instagram:'+W+'' + color.BOLD + ' @_t0x1c - www.instagram.com/_t0x1c' + color.END)
 	        print(''+T+'' + color.UNDERLINE + 'Email me:'+W+'' + color.BOLD + ' t0x1cigyt@gmail.com' + color.END)
+	        print(''+T+'' + color.UNDERLINE + 'XMPP:'+W+'' + color.BOLD + ' toxic-ig@exploit.im' + color.END)
 	    elif main == "ping":
 		while True:
 	            hostname = raw_input(''+T+'' + color.UNDERLINE + 'Host>' + color.END)
@@ -315,7 +316,7 @@ def tritymain():
 	        os.system('ls')
 	    elif main == "tool":
 	        print(color.UNDERLINE + ''+C+'Version: 3.0.1' + color.END)
-	        print(color.UNDERLINE + ''+C+'Time spent on it: 72 hours - 46 minutes' + color.END)
+	        print(color.UNDERLINE + ''+C+'Time spent on it: 74 hours - 21 minutes' + color.END)
 	        print(color.UNDERLINE + ''+C+'toxic is a sp00ky h4ck3r' + color.END)
 	    elif main == "website":
 		while True:
