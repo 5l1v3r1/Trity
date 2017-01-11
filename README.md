@@ -16,8 +16,15 @@ Change directory, and then run the installer script (Must be root or have superu
 
 The `install.py` script will install of the necessary dependencies for you. Other platforms will be supported in the future.
 
-Once finished, execute with*:
+Once finished, execute with:
 
     trity
 
 
+### Issues?
+
+If you have any issues regarding the source code of this framework, as well as any errors you have encountered, please contact me at 
+
+    Xmpp: toxic-ig@exploit.im
+    Email: t0x1cigyt@gmail.com
+    Instagram: @_t0x1c
