@@ -1,5 +1,5 @@
 # Trity
-Trity is an advanced pentesting framwork dedicated to everything from cryptography to spoofing.
+Trity is an advanced pentesting framework dedicated to everything from cryptography to spoofing.
 
 ## Installation & Usage
 
